@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433179341771",
+    "project_id": "advancti-c08bd",
+    "storage_bucket": "advancti-c08bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433179341771:android:c3356561e1d7144e663c4e",
+        "android_client_info": {
+          "package_name": "com.example.advancti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzBhpznjA_OrbId3l2zEUrusNBc30lGmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
