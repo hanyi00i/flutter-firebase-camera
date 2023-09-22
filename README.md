@@ -1,4 +1,4 @@
-# AdvanCTi Camera App
+# Camera App
 
 ## How to run
 
